@@ -1,4 +1,6 @@
-# Hi there! 👋  
+<div align="center">
+<h1>Hi there! 👋</h1>  
+</div>
 
 I'm Maciej Konieczny, a full-stack web developer by passion and profession, with a focus on web development, based in Poznań.  
 
