@@ -8,7 +8,7 @@ I've been programming since my university days, and in 2022, I managed to turn m
 
 In programming I am passionate about solving complex problems, learning new technologies, refining and optimizing code.
 
-You can find my most representative personal projects right below this Readme!
+You can find my most notable personal projects right below this README!
 
 ## 🛠️ Base Tech Stack
 - **Programming languages:** Typescript, Python, Kotlin, Bash, Javacript  
@@ -30,5 +30,5 @@ You can find my most representative personal projects right below this Readme!
 - Feel free to message me on [LinkedIn](https://www.linkedin.com/in/mcjkon)
 
 <div align="center">
-Thanks for stopping by! 😃
+Thanks for stopping by!
 </div>
