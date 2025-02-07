@@ -16,7 +16,8 @@ You can find my most notable personal projects right below this README!
 - **Backend:** Node.js, Deno, Nest.js, Express  
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL  
 - **DevOps:** AWS, CDK, Docker, GitHub Actions  
-- **Other**: CSS, Jest, Knex, Prisma, Sass, Tailwind, TypeORM
+- **Database ORMs:** Knex, Mongoose, Prisma, TypeORM
+- **Styling:** CSS, Sass, Tailwind
 
 ## 🚀 What I'm working on  
 - Currently in between jobs, available for full-time work.
