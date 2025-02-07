@@ -19,11 +19,10 @@ You can find my most representative personal projects right below this Readme!
 ## 🚀 What I'm working on  
 - Currently in between jobs, available for full-time work.
 - I'm making the most of this time by:
-    * refining my side projects ✨
-    * collaborating with friends 🤝
-    * exploring new technologies 🔍  
-
-All of it while having fun!
+    * Refining my side projects ✨
+    * Collaborating with friends 🤝
+    * Exploring new technologies 🔍  
+- And most importantly — having fun along the way!
 
 ## 📫 How to reach me  
 - Feel free to message me on [LinkedIn](https://www.linkedin.com/in/mcjkon)
