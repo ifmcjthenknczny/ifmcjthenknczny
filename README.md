@@ -13,7 +13,7 @@ You can find my most notable personal projects right below this README!
 ## 🛠️ Base Tech Stack
 - **Programming languages:** Typescript, Python, Kotlin, Bash, Javacript  
 - **Frontend:** React, Vue, Next.js, Vite  
-- **Backend:** Node.js, Deno, Nest.js, Express  
+- **Backend:** Node.js, Deno, Nest.js, Fastify, Express  
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL  
 - **DevOps:** AWS, CDK, Docker, GitHub Actions  
 - **Database ORMs:** Knex, Mongoose, Prisma, TypeORM
