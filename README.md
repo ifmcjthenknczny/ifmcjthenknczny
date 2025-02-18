@@ -11,7 +11,7 @@ In programming I am passionate about solving complex problems, learning new tech
 You can find my most notable personal projects right below this README!
 
 ## 🛠️ Base Tech Stack
-- **Programming languages:** Typescript, Python, Kotlin, Bash, Javacript  
+- **Programming languages:** Typescript, Python, Bash, Javascript, Kotlin  
 - **Frontend:** React, Vue, Next.js, Vite  
 - **Backend:** Node.js, Deno, Nest.js, Fastify, Express  
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL  
