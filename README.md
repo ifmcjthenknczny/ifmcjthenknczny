@@ -4,7 +4,7 @@
 
 I'm **Maciej Konieczny**, a full-stack developer by passion and profession, specializing in **web development**. I live in Poznań 🇵🇱.  
 
-I've been coding since my university days, and in 2022 I managed to turn my passion into a 100% professional career with **Typescript** as my first language of choice.  
+I've been coding since my university days, and in 2022 I managed to turn my hobby into a career with **Typescript** as my first language of choice.  
 
 In programming I am most passionate about solving complex problems, learning new technologies, refining and optimizing code.
 
