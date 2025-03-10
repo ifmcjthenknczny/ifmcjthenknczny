@@ -2,7 +2,7 @@
 <h1>Hi there! 👋</h1>  
 </div>
 
-I'm **Maciej Konieczny**, a full-stack web developer by passion and profession, with a focus on web development, based in Poznań.  
+I'm **Maciej Konieczny**, a full-stack developer by passion and profession - with a focus on web development. I'm based in Poznań.  
 
 I've been coding since my university days, and in 2022 I managed to turn my passion into a 100% professional career with **Typescript** as my first language of choice.  
 
