@@ -2,22 +2,29 @@
 <h1>Hi there! 👋</h1>  
 </div>
 
-I'm Maciej Konieczny, a full-stack web developer by passion and profession, with a focus on web development, based in Poznań.  
+I'm **Maciej Konieczny**, a full-stack web developer by passion and profession, with a focus on web development, based in Poznań.  
 
-I've been programming since my university days, and in 2022, I managed to turn my passion into a 100% professional career.  
+I've been coding since my university days, and in 2022 I managed to turn my passion into a 100% professional career with **Typescript** as my first language of choice.  
 
-In programming I am passionate about solving complex problems, learning new technologies, refining and optimizing code.
+In programming I am most passionate about solving complex problems, learning new technologies, refining and optimizing code.
 
-You can find my most notable personal projects right below this README!
+You can find my **notable personal projects** right below this README! ⬇️
 
 ## 🛠️ Base Tech Stack
-- **Programming languages:** Typescript, Python, Bash, Javascript, Kotlin  
-- **Frontend:** React.js, Vue.js, Next.js, Nuxt.js, Vite  
-- **Backend:** Node.js, Deno, Nest.js, Fastify, Express  
-- **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL  
-- **DevOps:** AWS, CDK, Docker, GitHub Actions  
-- **Database ORMs:** Knex, Mongoose, Prisma, TypeORM
-- **Styling:** CSS, Sass, Tailwind
+- **Programming languages:**  
+Typescript, Python, Bash, Javascript, Kotlin  
+- **Frontend:**  
+React.js, Vue.js, Next.js, Nuxt.js, Vite  
+- **Backend:**  
+Node.js, Deno, Nest.js, Fastify, Express  
+- **Databases:**  
+PostgreSQL, MongoDB, DynamoDB, MySQL  
+- **DevOps:**  
+AWS, CDK, Docker, GitHub Actions  
+- **Database ORMs:**  
+Knex, Mongoose, Prisma, TypeORM
+- **Styling:**  
+CSS, Sass, Tailwind
 
 ## 🚀 What I'm working on  
 - Currently in between jobs, available for full-time work.
