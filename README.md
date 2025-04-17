@@ -12,15 +12,15 @@ You can find my **notable personal projects** right below this README! ⬇️
 
 ## 🛠️ Base Tech Stack
 - **Programming languages:**  
-Typescript, Python, Bash, Javascript, Kotlin  
+Typescript, Python, Bash, Javascript  
 - **Frontend:**  
-React.js, Vue.js, Next.js, Nuxt.js, Vite  
+React.js, Vue.js, Next.js, Nuxt.js  
 - **Backend:**  
 Node.js, Deno, Nest.js, Fastify, Express  
 - **Databases:**  
 PostgreSQL, MongoDB, DynamoDB, MySQL  
 - **DevOps:**  
-AWS, CDK, Docker, GitHub Actions  
+AWS, CDK, Docker, GitHub Actions, Vercel  
 - **Database ORMs:**  
 Knex, Mongoose, Prisma, TypeORM
 - **Styling:**  
@@ -32,7 +32,7 @@ CSS, Sass, Tailwind
     * Refining my side projects ✨
     * Collaborating with friends 🤝
     * Exploring new technologies 🔍  
-- And most importantly — having fun along the way!
+    * And most importantly — having fun along the way!
 
 ## 📫 How to reach me  
 - Feel free to message me on [LinkedIn](https://www.linkedin.com/in/mcjkon)
