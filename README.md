@@ -31,7 +31,7 @@ Knex, Mongoose, Prisma, TypeORM
 - **AWS:**  
 CDK, Cognito, DynamoDB, EC2, ECS, Lambda, RDS, SES  
 - **Styling:**  
-CSS, Sass, Tailwind
+CSS, SCSS, Tailwind
 
 ## 🚀 What I'm working on  
 - Currently in between jobs - I am available for full-time work almost immediately.  
