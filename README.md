@@ -19,7 +19,7 @@ React.js, Vue.js
 Next.js, Nuxt.js  
 - **Backend frameworks:**  
 Nest.js, Fastify, Express  
-- **Backend runtimes:**
+- **Backend runtimes:**  
 Node.js, Deno  
 - **Databases:**  
 PostgreSQL, MongoDB, DynamoDB, MySQL  
