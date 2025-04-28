@@ -39,7 +39,7 @@ CSS, SCSS, Tailwind
     * Refining my side projects ✨  
     * Collaborating with friends 🤝  
     * Exploring new technologies 🔍  
-    * Deepening my theoretical understanding of how each of these technologies works under the hood 📚  
+    * Deepening my theoretical understanding of how particular technologies work under the hood 📚  
     * And most importantly — having fun along the way!
 
 ## 📫 How to reach me  
