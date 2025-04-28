@@ -28,7 +28,7 @@ Knex, Mongoose, Prisma, TypeORM
 - **DevOps:**  
 <ins>AWS</ins>, Docker, GitHub Actions, Vercel  
 ⬇️  
-- **AWS:**
+- **AWS:**  
 CDK, Cognito, DynamoDB, EC2, ECS, Lambda, RDS, SES  
 - **Styling:**  
 CSS, Sass, Tailwind
