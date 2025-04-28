@@ -26,7 +26,7 @@ PostgreSQL, MongoDB, DynamoDB, MySQL
 - **Database ORMs:**  
 Knex, Mongoose, Prisma, TypeORM  
 - **DevOps:**  
-AWS, Docker, GitHub Actions, Vercel  
+<ins>AWS</ins>, Docker, GitHub Actions, Vercel  
 ⬇️  
 - **AWS:**
 CDK, Cognito, DynamoDB, EC2, ECS, Lambda, RDS, SES  
