@@ -12,26 +12,34 @@ You can find my **notable personal projects** right below this README! ⬇️
 
 ## 🛠️ Base Tech Stack
 - **Programming languages:**  
-Typescript, Python, Bash, Javascript  
-- **Frontend:**  
-React.js, Vue.js, Next.js, Nuxt.js  
-- **Backend:**  
-Node.js, Deno, Nest.js, Fastify, Express  
+Typescript, Javascript, Python, Bash,  
+- **Frontend libs:**  
+React.js, Vue.js  
+- **Meta frameworks:**  
+Next.js, Nuxt.js  
+- **Backend frameworks:**  
+Nest.js, Fastify, Express  
+- **Backend runtimes:**
+Node.js, Deno  
 - **Databases:**  
 PostgreSQL, MongoDB, DynamoDB, MySQL  
-- **DevOps:**  
-AWS, CDK, Docker, GitHub Actions, Vercel  
 - **Database ORMs:**  
-Knex, Mongoose, Prisma, TypeORM
+Knex, Mongoose, Prisma, TypeORM  
+- **DevOps:**  
+AWS, Docker, GitHub Actions, Vercel  
+⬇️  
+- **AWS:**
+CDK, Cognito, DynamoDB, EC2, ECS, Lambda, RDS, SES  
 - **Styling:**  
 CSS, Sass, Tailwind
 
 ## 🚀 What I'm working on  
-- Currently in between jobs, available for full-time work.
+- Currently in between jobs - I am available for full-time work almost immediately.  
 - I'm making the most of this time by:
-    * Refining my side projects ✨
-    * Collaborating with friends 🤝
+    * Refining my side projects ✨  
+    * Collaborating with friends 🤝  
     * Exploring new technologies 🔍  
+    * Deepening my theoretical understanding of how each of these technologies works under the hood 📚  
     * And most importantly — having fun along the way!
 
 ## 📫 How to reach me  
