@@ -12,7 +12,7 @@ You can find my **notable personal projects** right below this README! ⬇️
 
 ## 🛠️ Base Tech Stack
 - **Programming languages:**  
-Typescript, Javascript, Python, Bash,  
+Typescript, Javascript, Python, Bash 
 - **Frontend libs:**  
 React.js, Vue.js  
 - **Meta frameworks:**  
