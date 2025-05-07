@@ -12,7 +12,7 @@ You can find my **notable personal projects** right below this README! ⬇️
 
 ## 🛠️ Base Tech Stack
 - **Programming languages:**  
-Typescript, Javascript, Python, Bash 
+Typescript, Javascript, Python, Bash  
 - **Frontend libs:**  
 React.js, Vue.js  
 - **Meta frameworks:**  
@@ -33,14 +33,12 @@ CDK, Cognito, DynamoDB, EC2, ECS, Lambda, RDS, SES
 - **Styling:**  
 CSS, SCSS, Tailwind
 
-## 🚀 What I'm working on  
-- Currently in between jobs - I am available for full-time work almost immediately.  
-- I'm making the most of this time by:
+## 🚀 What I'm working on personally  
+- When my eyes can still focus on code, I am tinkering with:  
     * Refining my side projects ✨  
     * Collaborating with friends 🤝  
     * Exploring new technologies 🔍  
     * Deepening my theoretical understanding of how particular technologies work under the hood 📚  
-    * And most importantly — having fun along the way!
 
 ## 📫 How to reach me  
 - Feel free to message me on [LinkedIn](https://www.linkedin.com/in/mcjkon)
