@@ -34,11 +34,12 @@ CDK, Cognito, DynamoDB, EC2, ECS, Lambda, RDS, SES
 CSS, SCSS, Tailwind
 
 ## 🚀 What I'm working on personally  
-- When my eyes can still focus on code, I am tinkering with:  
+- When my eyes can still focus on code, I am absorbed in:  
     * Refining my side projects ✨  
     * Collaborating with friends 🤝  
     * Exploring new technologies 🔍  
     * Deepening my theoretical understanding of how particular technologies work under the hood 📚  
+    * Playing with Arduino 🤖  
 
 ## 📫 How to reach me  
 - Feel free to message me on [LinkedIn](https://www.linkedin.com/in/mcjkon)
