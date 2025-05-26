@@ -6,7 +6,7 @@ I'm **Maciej Konieczny**, a full-stack developer by passion and profession, spec
 
 I've been coding since my university days, and in 2022 I managed to turn my hobby into a career with **Typescript** as my first language of choice.  
 
-In programming I am most passionate about solving complex problems, learning new technologies, refining and optimizing code.
+In programming I am most passionate about solving complex problems, learning new technologies, optimizing code.
 
 You can find my **notable personal projects** right below this README! ⬇️
 
