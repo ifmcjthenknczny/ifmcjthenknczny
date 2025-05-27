@@ -39,7 +39,7 @@ CSS, SCSS, Tailwind
     * Collaborating with friends 🤝  
     * Exploring new technologies 🔍  
     * Deepening my theoretical understanding of how particular technologies work under the hood 📚  
-    * Playing with Arduino 🤖  
+    * Playing with cheap microcontrollers 🤖  
 
 ## 📫 How to reach me  
 - Feel free to message me on [LinkedIn](https://www.linkedin.com/in/mcjkon)
