@@ -26,7 +26,7 @@ PostgreSQL, MongoDB, DynamoDB, MySQL
 - **Database ORMs:**  
 Knex, Mongoose, Prisma, TypeORM  
 - **DevOps:**  
-<ins>AWS</ins>, Docker, GitHub Actions, Vercel  
+<ins>AWS</ins>, Docker, GitHub Actions, Google Cloud, Helm, K8s, Terraform, Vercel  
 ⬇️  
 - **AWS:**  
 CDK, Cognito, DynamoDB, EC2, ECS, Lambda, RDS, SES  
@@ -36,7 +36,6 @@ CSS, SCSS, Tailwind
 ## 🚀 What I'm working on personally  
 - When my eyes can still focus on code, I am absorbed in:  
     * Refining my side projects ✨  
-    * Collaborating with friends 🤝  
     * Exploring new technologies 🔍  
     * Deepening my theoretical understanding of how particular technologies work under the hood 📚  
     * Playing with cheap microcontrollers 🤖  
