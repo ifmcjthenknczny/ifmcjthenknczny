@@ -4,7 +4,7 @@
 
 I'm Maciej, **full-stack developer** by passion and profession, specializing in **web development**. I live in Poznań 🇵🇱.  
 
-I've been coding since my university days, and in 2022 I managed to turn my hobby into a career with **Typescript** as my first language of choice.  
+I've been coding since my university days, and in 2022 I managed to turn my hobby into a career with **Typescript** as my weapon of choice.  
 
 In programming I am most passionate about solving complex problems, learning new technologies, optimizing code.
 
