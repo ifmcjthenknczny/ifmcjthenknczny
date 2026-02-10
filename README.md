@@ -35,10 +35,11 @@ CSS, SCSS, Tailwind
 
 ## 🚀 What I'm working on personally  
 - When my eyes can still focus on code, I am absorbed in:  
-    * Refining my side projects ✨  
-    * Exploring new technologies 🔍  
-    * Deepening my theoretical understanding of how particular technologies work under the hood 📚  
-    * Playing with cheap microcontrollers 🤖  
+    * Refining my side projects,
+    * Exploring new technologies,
+    * Playing with cheap microcontrollers,
+    * Simultaneously training simple NNs and testing the thermal limits of my RTX 3050,
+    * Deepening my theoretical understanding of how particular technologies work under the hood.
 
 ## 📫 How to reach me  
 - Feel free to message me on [LinkedIn](https://www.linkedin.com/in/mcjkon)
