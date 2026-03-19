@@ -38,7 +38,7 @@ CSS, SCSS, Tailwind
     * Refining my side projects,
     * Exploring new technologies,
     * Playing with cheap microcontrollers,
-    * Simultaneously training simple NNs and testing the thermal limits of my RTX 3050,
+    * Simultaneously training simple NNs and testing the thermal limits of my RTX 3050 (if I have exceeded Kaggle limits),
     * Deepening my theoretical understanding of how particular technologies work under the hood.
 
 ## 📫 How to reach me  
