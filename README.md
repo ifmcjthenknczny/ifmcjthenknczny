@@ -38,7 +38,7 @@ When my eyes can still focus on code, I am absorbed in:
 * Refining my side projects,
 * Exploring new technologies,
 * Playing with cheap microcontrollers,
-* Simultaneously training simple NNs and testing the thermal limits of my RTX 3050 (if I have exceeded Kaggle limits),
+* Simultaneously training simple NNs and testing the thermal limits of my RTX 3050 (if I have exceeded Kaggle free plan),
 * Deepening my theoretical understanding of how particular technologies work under the hood.
 
 ## 📫 How to reach me  
